@@ -1,4 +1,4 @@
-# semseg-clip
+# Improving Dense Prediction Tasks using Vision-Language Models
 
 The project is based on the applications of CLIP in Semantic Segmentation Problems. We take into consideration two problem settings: Natural Image Segmentation and Medical Imaging Segmentation.
 
